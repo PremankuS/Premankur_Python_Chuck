@@ -1,0 +1,10 @@
+largest = None
+for number in (9,41,12,3,74,15):
+    if number > largest:
+        largest = number
+    print largest, number
+print largest
+
+
+
+
