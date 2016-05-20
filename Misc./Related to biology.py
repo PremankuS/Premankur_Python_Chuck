@@ -7,4 +7,3 @@ low_protein = (yden.lower())
 print low_protein
 yden_UPPER = (low_protein.upper())
 print yden_UPPER
-#this is a test if git is working
